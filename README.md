@@ -1,8 +1,8 @@
 # Análise Exploratória
 
-Trabalho desenvolvido utilizando dataset do kaggle
+Trabalho desenvolvido utilizando dataset do https://www.kaggle.com/adaoduque/campeonato-brasileiro-de-futebol
 
-Dataset utilizado Campenota Brasileiro Futebol 2000 á 2019
+Dataset utilizado: Campeonato Brasileiro Futebol 2000 á 2019
 
 Integrantes:<br/>
 Arthur Alves<br/>
